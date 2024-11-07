@@ -1,7 +1,12 @@
 # Practica de la Unidad 2
 # José Armando Ruano Mascorro
 
+#Link de los videos de las practicas de la Unidad:
+https://drive.google.com/drive/folders/1A3448FgZnrSAcyaCwGdp-FhIoEtbsHE4?usp=drive_link
+
 Coevaluación de José Armando Ruano Mascorro hacia Uriel Yáñez Aguayo.
+
+Trabajar con Uriel ha sido algo en su mayoria bueno, es una persona que sabe de la materia, ademas de que nos retroalimentabamos mutuamente, si hay algo de lo que me podría "quejar" seria que a veces nos confiabamos de más y realizabamos los trabajo tomandonos nuestro tiempo, pero siempre tratabamos de aportar algo en el equipo.
 
 Examenes Python.
 
