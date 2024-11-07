@@ -14,7 +14,7 @@ Examenes Python.
 ![image](https://github.com/user-attachments/assets/f345c4d5-1fd6-47a5-be62-5a13e7e84e51)
 
 
-# Uriel Yañez
+# Uriel Yañez Aguayo
 
 Examenes Python.
 
