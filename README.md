@@ -14,3 +14,5 @@ Examenes Python.
 
 
 
+# Coevaluación de Uriel Yáñez Aguayo hacia José Armando Ruano Mascorro
+En general, fué gratificante trabajar con mi compañero Armando ya que durante todas las prácticas nos ayudamos mutuamente en lo que no entendiamos sea de la conexiones o del código que estabamos realizando, todo el tiempo el trabajo fué equilibrado tratando ambos de trabajar 50% y 50% respectivamente
